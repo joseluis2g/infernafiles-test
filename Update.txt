@@ -1,0 +1,5 @@
+packages/Inferna/assets.json be595265980de5c28f9f3f655f44b7ff2fdf0f3f 406947
+packages/Inferna/bin/client.exe fc607a2d421a285bff3f4aed67e4e4f7de11902a 3531445
+packages/Inferna/bin/angle_current/libEGL.dll ec92e0e110b5e7dd74bdddb9aa68360a9d35cf1c 11966
+packages/Inferna/bin/angle_current/libGLESv2.dll c7ec6f773dc1a92fd90d17f2e93736407d07dfc6 851831
+packages/Inferna/conf/gpublacklist.json ecc39322d82b44bdf6b8472ee31cdd02dea5333b 1189
